@@ -1,6 +1,6 @@
 # PROJECT SUMMARY
 
-Image classification plays a pivotal role in indexing and organizing the insane amount of images that exist on the internet so that they can be easily used by individuals and organizations alike. I completed the following task as part of my Prodigy InfoTech machine learning internship. Some of the insights I derived from the project are:
+Image classification plays a pivotal role in organizing and indexing the insane amount of images that exist on the internet so that they can be easily used by individuals and organizations alike. I completed the following task as part of my Prodigy InfoTech machine learning internship. Some of the insights I derived from the project are:
 
 - Google Colab provides an interactive workspace for data science & ML tasks
 - Google Colab also seamlessly integrates with Google Drive which is useful for working with large visual datasets
@@ -9,7 +9,7 @@ Image classification plays a pivotal role in indexing and organizing the insane 
 - GridSearchCV is an extremely useful tool for hyperparameter tuning, epecially for SVMs where C and gamma values significantly affect model outcomes
 - Setting the parameter verbose=3 for model fitting helps one track the model training time which exponentially increases with number of samples and features
 - Having a good command of numpy functions saves a lot of time when feature engineering
-- Deleting redundant arrays and performing garbage collection significantly reduces memory footpring
+- Deleting redundant arrays and performing garbage collection significantly reduces memory footprint
 
 # NOTEBOOK SUMMARY
 
